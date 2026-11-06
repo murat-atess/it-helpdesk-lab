@@ -2,7 +2,7 @@
 
 "A'dan Z'ye Sertifikalı Bilgi İşlem (IT) HelpDesk Eğitimi" kursunu uygulamalı projelerle pekiştirmek için kurduğum sanal lab ortamı ve proje dokümantasyonu.
 
-Her projede VMware Workstation üzerinde bir senaryo kuruyor; yapılan adımları, ekran görüntülerini ve karşılaştığım sorunları belgeliyorum.
+Her projede VMware Workstation üzerinde bir senaryo kurup yapılan adımları ekran görüntüleriyle belgeliyorum.
 
 ## Projeler
 
