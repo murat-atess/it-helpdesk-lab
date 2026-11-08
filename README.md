@@ -9,7 +9,8 @@ Her projede VMware Workstation üzerinde bir senaryo kurup yapılan adımları e
 | # | Proje | Durum |
 |---|-------|-------|
 | 01 | [Lab Ortamı Kurulumu: Windows 10 İstemci](project-01-lab-setup/README.md) | Tamamlandı |
-| 02 | Windows Server ve Active Directory | Planlanıyor |
+| 02 | [Windows Server 2022 Kurulumu ve Ağ Yapılandırması](project-02-windows-server/README.md) | Tamamlandı |
+| 03 | Active Directory ve Etki Alanı | Planlanıyor |
 
 ## Kullanılan araçlar
 
